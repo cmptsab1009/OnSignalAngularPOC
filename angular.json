@@ -104,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "OneSignalNotification"
+  "defaultProject": "OneSignalNotification",
+  "cli": {
+    "analytics": false
+  }
 }
